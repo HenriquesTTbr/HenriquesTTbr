@@ -8,10 +8,10 @@ I,m a designer and in the future a programmer.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * ✉️  You can contact me at [chrhuebr@gmail.com](mailto:chrhuebr@gmail.com)
-* 🚀  I'm currently studying TI in São José [STI](https://saojose.br/)
-* 🧠  I'm learning Advanced Javascript, Unit Tests and C/C++ programming languages
+* 🚀  I'm currently studying IT in [Universidade São José](https://saojose.br/)
+* 🧠  I'm learning Javascript, and C programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is Crossfit
+* ⚡  I love sports and my favorite is Grass Hockey
 
 <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/peguimasid?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
