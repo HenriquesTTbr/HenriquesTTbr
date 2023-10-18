@@ -7,7 +7,9 @@ I,m a designer and in the future a programmer.
 
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
-* ✉️  You can contact me at [chrhuebr@gmail.com](mailto:chrhuebr@gmail.com)
+* ✉️  You can contact me at [caio021henriques@gmail.com
+](mailto:caio021henriques@gmail.com
+)
 * 🚀  I'm currently studying IT in [Universidade São José](https://saojose.br/)
 * 🧠  I'm learning Javascript, and C programming languages
 * 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
